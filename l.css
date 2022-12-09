@@ -1,0 +1,20 @@
+h1{
+	color: #654321;
+	font-family: cursive;
+}
+h4{
+	font: bold;
+	color: #AAAFFF;
+}
+h5{
+	font: initial;
+	color: #FED987;
+}
+table {
+	background: #000000;
+	border-collapse: separate;
+	border: #000000 2px solid;
+}
+a{
+	color: #FFFFFF;
+}
